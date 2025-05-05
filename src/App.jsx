@@ -2,9 +2,9 @@ import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
-import Title from "./title";
-import Navbar from "./navbar";
-import Acordeon from "./acordeon";
+import Title from "./components/title";
+import Navbar from "./components/navbar";
+import Acordeon from "./components/acordeon";
 
 function App() {
     const [count, setCount] = useState(0);

@@ -1,3 +1,4 @@
+# Esta carpeta no se sube a Github, pero cuando la bajo de Github tampoco la tengo, hay que intalar las dependencias con npm install
 # Logs
 logs
 *.log
